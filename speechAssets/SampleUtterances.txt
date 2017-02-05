@@ -1,0 +1,49 @@
+MirrorMirrorHelloIntent hello
+MirrorMirrorHelloIntent hi
+MirrorMirrorHelloIntent hey
+MirrorMirrorHelloIntent good morning
+MirrorMirrorHelloIntent good afternoon
+MirrorMirrorHelloIntent good evening
+ShowTextIntent say {hi|displayText}
+ShowTextIntent say {hello|displayText}
+ShowTextIntent say {hello everyone|displayText}
+ShowTextIntent say {good morning|displayText}
+ShowTextIntent display text of {hello|displayText}
+ShowTextIntent display text of  {good morning|displayText}
+ShowTextIntent show text of {hello|displayText}
+ShowTextIntent show text of  {good morning|displayText}
+ShowImagesIntent show me {apples|searchTerm}
+ShowImagesIntent show me pictures of {sea animals|searchTerm}
+ShowImagesIntent show me images of {octopus|searchTerm}
+ShowImagesIntent show pictures of {volcanoes|searchTerm}
+ShowImagesIntent show images of {birds|searchTerm}
+ShowImagesIntent show images of {bill gates|searchTerm}
+ShowImagesIntent display pictures of {animals|searchTerm}
+ShowImagesIntent display images of {rattle snakes|searchTerm}
+ShowImagesIntent find {hunter|searchTerm}
+ShowImagesIntent find {snow white|searchTerm}
+ShowImagesIntent find images of {sharks|searchTerm}
+ShowImagesIntent find images of {elon musk|searchTerm}
+ShowImagesIntent find pictures of {sharks|searchTerm}
+TurnOnModuleIntent open {compliments|moduleName}
+TurnOnModuleIntent open {smile test|moduleName}
+TurnOnModuleIntent turn on {compliments|moduleName}
+TurnOnModuleIntent turn on {smile test|moduleName}
+TurnOnModuleIntent start {compliments|moduleName}
+TurnOnModuleIntent start {smile test|moduleName}
+TurnOffModuleIntent close {compliments|moduleName}
+TurnOffModuleIntent close {smile test|moduleName}
+TurnOffModuleIntent turn off {smile test|moduleName}
+TurnOffModuleIntent turn off {compliments|moduleName}
+TurnOffModuleIntent finish {smile test|moduleName}
+ShowVideoIntent show me how to {draw|searchTermVideo}
+ShowVideoIntent show me how to {make slime|searchTermVideo}
+ShowVideoIntent show me video of {movie trailer|searchTermVideo}
+ShowVideoIntent show me a video of {sea animals|searchTermVideo}
+ShowVideoIntent show video of {volcanoes|searchTermVideo}
+ShowVideoIntent show a video of {birds|searchTermVideo}
+ShowVideoIntent display video of {animals|searchTermVideo}
+ShowVideoIntent display a video of {rattle snakes|searchTermVideo}
+ShowVideoIntent find video of {cat|searchTermVideo}
+ShowVideoIntent find video of {cat and dog|searchTermVideo}
+ShowVideoIntent find a video of {snow white|searchTermVideo}
